@@ -1,26 +1,26 @@
-HR Analytics Dashboard
-Overview
+**HR Analytics Dashboard**
+**Overview**
 This project presents an interactive HR Analytics Dashboard developed using Power BI. The dashboard helps analyze employee attrition, workforce demographics, job satisfaction, salary distribution, and departmental performance.
 
-Tools Used
+**Tools Used**
 Power BI
 Excel
 Power Query
-Key Metrics
+**Key Metrics**
 Total Employees
 Active Employees
 Attrition Count
 Attrition Rate
 Average Age
 Average Experience
-Dashboard Features
+**Dashboard Features**
 Department-wise employee analysis
 Attrition by salary slab
 Attrition by gender
 Attrition by job role and satisfaction
 Employee age group distribution
 Interactive filters and slicers
-Business Insights
+**Business Insights**
 The dashboard helps HR teams identify factors contributing to employee attrition and supports workforce planning through data-driven decision making.
 
 Dashboard Preview
